@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KVoc2eAixSCGrM+tOTzNRFb4QEeqVdL2OL2MKoLJSoaY2XjvgIUBIsCjSI2XlwelFXWk+B8P7mc5r50BroG/tg==",
+  "dgSpecHash": "vAmWYYclVeXiTi/87lSp3ML4wmZ133PPxQMixEuTH2KPIjqwzu4UN/tqlrAoCvcUgYC39ouOzdfxu+LgOSUtzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lewan\\cwiczenia-3-s16324-1\\cwiczenia-3-s16324-1\\cwiczenia-3-s16324-1.csproj",
+  "projectFilePath": "C:\\Users\\lewan\\APBD\\3\\cwiczenia-3-s16324-1\\cwiczenia-3-s16324-1\\cwiczenia-3-s16324-1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lewan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\lewan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

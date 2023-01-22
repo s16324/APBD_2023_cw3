@@ -51,7 +51,7 @@ namespace cwiczenia_3_s16324.Controllers
         }
 
         //PUT new student
-        [HttpPut]
+        [HttpPost]
         public IActionResult CreateStudents(Student student)
         {
             IActionResult result = null;
